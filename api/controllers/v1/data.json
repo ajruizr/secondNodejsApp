@@ -24,6 +24,56 @@
             "id": 5,
             "color": "melon",
             "value": "#Fe7F9C"
+        },
+        {
+            "id": 6,
+            "color": "Living Coral",
+            "value": "#FF6F61"
+        },
+        {
+            "id": 7,
+            "color": "Ultra Violet",
+            "value": "#Fe7F9C"
+        },
+        {
+            "id": 8,
+            "color": "Greenery",
+            "value": "#88B04B"
+        },
+        {
+            "id": 9,
+            "color": "Rose Quartz",
+            "value": "#F7CAC9"
+        },
+        {
+            "id": 10,
+            "color": "Marsala",
+            "value": "#955251"
+        },
+        {
+            "id": 11,
+            "color": "Emerald",
+            "value": "#009B77"
+        },
+        {
+            "id": 12,
+            "color": "Tangerine Tango",
+            "value": "#DD4124"
+        },
+        {
+            "id": 13,
+            "color": "Honeysucle",
+            "value": "#D65076"
+        },
+        {
+            "id": 14,
+            "color": "Mimosa",
+            "value": "#EFC050"
+        },
+        {
+            "id": 15,
+            "color": "Blue Izis",
+            "value": "#5B5EA6"
         }
     ]
 }
